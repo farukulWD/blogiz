@@ -1,4 +1,4 @@
-# Blogiz-Starter-Pack
+# Blogiz
 
 ## Installation:
 
